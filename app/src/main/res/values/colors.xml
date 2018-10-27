@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#0B7F43</color>
+    <color name="colorPrimaryDark">#00695C</color>
+    <color name="colorAccent">#CDDC39</color>
+
+    <!--floating action button color-->
+    <color name="colorNormal">#0B7F43</color>
+    <color name="colorPressed">#CDDC39</color>
+    <color name="colorRipple">#0B7F43</color>
+
+    <!--app background color-->
+    <color name="background">#212121</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
